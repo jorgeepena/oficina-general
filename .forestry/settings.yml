@@ -22,13 +22,13 @@ sections:
 - type: heading
   label: Collections
 - type: directory
-  path: _recipes
-  label: Recipes
+  path: _ideas
+  label: Ideas
   create: documents
   match: "*.md"
 - type: directory
-  path: _pets
-  label: Pets
+  path: _snippets
+  label: Snippets
   create: documents
   match: "*.md"
 - type: heading
